@@ -13,7 +13,7 @@ Para executar o script basta seguir os seguintes passos:
 
 2- Acesse o site https://br.openfoodfacts.org/.
 
-3- Acesse um produto de sua escolha.
+3- Acesse a página de um produto de sua escolha.
 
 4- Abra o console do navegador.
 
