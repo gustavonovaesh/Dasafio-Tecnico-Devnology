@@ -19,5 +19,5 @@ Para executar o script basta seguir os seguintes passos:
 
 5- Cole o script no console e execute.
 
-O resultado é a impressão de um Objeto com as informações previamente definidas, bem como a impressão em formato de texto de todas as informações coloetadas.
+O resultado é a impressão de um Objeto com as informações previamente definidas, bem como a impressão em formato de texto de todas as informações coletadas.
 
