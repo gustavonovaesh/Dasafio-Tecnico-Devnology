@@ -1,6 +1,7 @@
 # Desafio Técnico Devnology
  
 ## Projeto: Web Scraping
+#### Por: Gustavo da Silva Novaes
 
 O projeto se resume na construçãos de um script executável diretamente no navegador, com o objetivo de buscar informações específicas em uma página web através da técnica de Web Scraping.
 
