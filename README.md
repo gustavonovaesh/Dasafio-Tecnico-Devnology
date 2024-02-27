@@ -8,11 +8,13 @@ Atrav√©s do site https://br.openfoodfacts.org/ foi selecionado um produto espec√
 
 Para executar o script basta seguir os seguintes passos:
 
-1- Acessar o site https://br.openfoodfacts.org/.
+1- Acesse o arquivo armazenado na pasta script.
 
-2- Acessar um produto de sua escolha.
+2- Acesse o site https://br.openfoodfacts.org/.
 
-3- Abrir o terminal do navegador.
+3- Acesse um produto de sua escolha.
 
-4- Colar o script no terminal e executar.
+4- Abrir o terminal do navegador.
+
+5- Colar o script no terminal e executar.
 
