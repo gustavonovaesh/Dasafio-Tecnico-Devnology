@@ -5,7 +5,7 @@
 
 O projeto se resume na construção de um script executável diretamente no console do navegador, com o objetivo de buscar informações específicas em uma página web através da técnica Web Scraping.
 
-Através do site https://br.openfoodfacts.org/ foi selecionado um produto específico para a construção do script, observando a estrutura html e css da página. Dessa forma foi possível criar um script aplicavél a todos os produtos do site que busca determinadas informações previamente definidas.
+Através do site https://br.openfoodfacts.org/ foi selecionado um produto específico para a construção do script, observando a estrutura html e css da página. Dessa forma foi possível criar um script aplicável a todos os produtos do site que busca determinadas informações previamente definidas.
 
 Para executar o script basta seguir os seguintes passos:
 
